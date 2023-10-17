@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1627383430 source:e:\c++\atestat-snake\main.cpp
+	<cstdio>
+	<cstdlib>
+	<ctime>
+	<iostream>
+	<fstream>
+	<graphics.h>
+
